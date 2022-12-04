@@ -1,1 +1,1 @@
-my first readme
+first time doing this
